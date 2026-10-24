@@ -1,5 +1,4 @@
 Pyrogram==2.0.106
-TgCrypto
 motor
 aiohttp
 python-dotenv

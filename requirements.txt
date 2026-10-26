@@ -1,4 +1,0 @@
-Pyrogram==2.0.106
-motor
-aiohttp
-python-dotenv
